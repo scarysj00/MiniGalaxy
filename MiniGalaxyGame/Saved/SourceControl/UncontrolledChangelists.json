@@ -7,7 +7,12 @@
 			"files": [
 				"E:/UEClass/ClassSample/GalaxyGame/MiniGalaxyGame/Content/Level/PlayerMap.umap",
 				"E:/UEClass/ClassSample/GalaxyGame/MiniGalaxyGame/Content/Level/BP_ShootingGameModeBase.uasset",
-				"E:/UEClass/ClassSample/GalaxyGame/MiniGalaxyGame/Content/Level/BP_Player.uasset"
+				"E:/UEClass/ClassSample/GalaxyGame/MiniGalaxyGame/Content/Level/BP_Player.uasset",
+				"E:/UEClass/ClassSample/GalaxyGame/MiniGalaxyGame/Content/Input/IA_Horizontal.uasset",
+				"E:/UEClass/ClassSample/GalaxyGame/MiniGalaxyGame/Content/Input/IMC_Player.uasset",
+				"E:/UEClass/ClassSample/GalaxyGame/MiniGalaxyGame/Content/Blueprint/BP_Player.uasset",
+				"E:/UEClass/ClassSample/GalaxyGame/MiniGalaxyGame/Content/Blueprint/BP_ShootingGameModeBase.uasset",
+				"E:/UEClass/ClassSample/GalaxyGame/MiniGalaxyGame/Content/Input/IA_Vertical.uasset"
 			]
 		}
 	]
