@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/UEClass/ClassSample/GalaxyGame/MiniGalaxyGame/Content/Level/PlayerMap.umap",
+				"E:/UEClass/ClassSample/GalaxyGame/MiniGalaxyGame/Content/Level/BP_ShootingGameModeBase.uasset",
+				"E:/UEClass/ClassSample/GalaxyGame/MiniGalaxyGame/Content/Level/BP_Player.uasset"
+			]
+		}
+	]
+}
