@@ -19,6 +19,8 @@
 				"E:/UEClass/ClassSample/GalaxyGame/MiniGalaxyGame/Content/Resource/explosion_sound.uasset",
 				"E:/UEClass/ClassSample/GalaxyGame/MiniGalaxyGame/Content/Blueprint/BP_EnemyFactory.uasset",
 				"E:/UEClass/ClassSample/GalaxyGame/MiniGalaxyGame/Content/Blueprint/BP_KillZone.uasset",
+				"E:/UEClass/ClassSample/GalaxyGame/MiniGalaxyGame/Content/Resource/MT_Background.uasset",
+				"E:/UEClass/ClassSample/GalaxyGame/MiniGalaxyGame/Content/Resource/starloop.uasset",
 				"E:/UEClass/ClassSample/GalaxyGame/MiniGalaxyGame/Content/Level/BP_Player.uasset"
 			]
 		}
