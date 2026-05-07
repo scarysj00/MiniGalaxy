@@ -15,6 +15,9 @@
 				"E:/UEClass/ClassSample/GalaxyGame/MiniGalaxyGame/Content/Blueprint/BP_Bullet.uasset",
 				"E:/UEClass/ClassSample/GalaxyGame/MiniGalaxyGame/Content/Input/IA_Fire.uasset",
 				"E:/UEClass/ClassSample/GalaxyGame/MiniGalaxyGame/Content/Resource/laser-gun-shot.uasset",
+				"E:/UEClass/ClassSample/GalaxyGame/MiniGalaxyGame/Content/Blueprint/BP_Enemy.uasset",
+				"E:/UEClass/ClassSample/GalaxyGame/MiniGalaxyGame/Content/Resource/explosion_sound.uasset",
+				"E:/UEClass/ClassSample/GalaxyGame/MiniGalaxyGame/Content/Blueprint/BP_EnemyFactory.uasset",
 				"E:/UEClass/ClassSample/GalaxyGame/MiniGalaxyGame/Content/Level/BP_Player.uasset"
 			]
 		}
